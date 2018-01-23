@@ -232,3 +232,13 @@ http://sourceforge.net/projects/itextsharp/
 
 This is a .NET library for exporting data to a PDF file.
 ===================================================================
+
+====Suggestions by Michael Dingess=================================
+
+https://www.codecademy.com/learn/learn-java/
+
+Seeing as the final project will be coded in Java, codeacademy 
+ would prove to be an excellent tool for those students 
+ needing to self-teach Java before the final project.
+
+===================================================================
